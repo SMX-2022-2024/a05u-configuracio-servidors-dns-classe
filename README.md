@@ -38,7 +38,7 @@
 |**Soler Sampere, Arnau**||
 |**Vázquez Pelàez, Alex**||
 
-Podeu comprovar quina és l'adreça IP que us toca i quin és el vostre grup al següent [enllaç](https://script.google.com/a/macros/ginebro.cat/s/AKfycbySKjryIxHus2ZMggP8_Ap6sOhk0LLgTFgJ2lrKrTZwidQBXYEADZE2vNjofGaXPp0pCw/exec)
+Podeu comprovar quina és l'adreça IP que us toca i quin és el vostre grup al següent [enllaç](https://script.google.com/a/macros/ginebro.cat/s/AKfycbwyXcC3_d4qYKO2lxQMkS_GXYfajSFB1BP9CX98d9DAN9s3QCf-jfbAvzj5-1Se8_O9gA/exec)
 
 ## Creació del repositori del grup
 
