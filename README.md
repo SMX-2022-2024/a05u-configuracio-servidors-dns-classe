@@ -4,39 +4,40 @@
 
 ## Assignació dels grups
 
-|Alumne/a|Grup|
+|Grup|Alumne/a|
 |---|---|
-|**Agustí Corbella, Oriol**||
-|**Boada Cirera, Jan**||
-|**Bollero Ruzafa, Ivan**||
-|**Capel Vallbona, Marc**||
-|**Casas Lopez, Raul**||
-|**Codina Garcia, Aleix**||
-|**Córdoba Xandri, Oriol**||
-|**Cot Fontanella, Marc**||
-|**Deus Jurado, Izan**||
-|**Gálvez Comajuan, Marc**||
-|**Garcia Fernández, Adrià**||
-|**Garcia Romero, Arnau**||
-|**Lamela Garcia, Alvaro Haoan**||
-|**Martinez Segú, Eric**||
-|**Morales Gonzalez, Jan**||
-|**Moreno Fernández, Nil**||
-|**Navarro Galan, Gerard**||
-|**Ortiz Guerrero, Antoni**||
-|**Pan , Jiahao**||
-|**Pan , Le**||
-|**Puriy Puriy, Nicolas**||
-|**Putellas Martín, Pol**||
-|**Román Robles, Àlex**||
-|**Royuela Martín, Oriol**||
-|**Rueda Guàrdia, Marc**||
-|**Sacristan Castillo, Marc**||
-|**Sardaña Trinh, Marc**||
-|**Sellés Puyol, Aniol**||
-|**Sohl Brenes, Martin Albert**||
-|**Soler Sampere, Arnau**||
-|**Vázquez Pelàez, Alex**||
+|Grup 1|Agustí Corbella, Oriol|
+|Grup 1|Lamela Garcia, Alvaro Haoan|
+|Grup 1|Román Robles, Àlex|
+|Grup 1|Soler Sampere, Arnau|
+|Grup 2|Boada Cirera, Jan|
+|Grup 2|Cot Fontanella, Marc|
+|Grup 2|Putellas Martín, Pol|
+|Grup 2|Vázquez Pelàez, Alex|
+|Grup 3|Navarro Galan, Gerard|
+|Grup 3|Rueda Guàrdia, Marc|
+|Grup 3|Sellés Puyol, Aniol|
+|Grup 4|Capel Vallbona, Marc|
+|Grup 4|Codina Garcia, Aleix|
+|Grup 4|Deus Jurado, Izan|
+|Grup 4|Ortiz Guerrero, Antoni|
+|Grup 5|Pan , Jiahao|
+|Grup 5|Pan , Le|
+|Grup 5|Sacristan Castillo, Marc|
+|Grup 5|Sardaña Trinh, Marc|
+|Grup 6|Córdoba Xandri, Oriol|
+|Grup 6|Garcia Romero, Arnau|
+|Grup 6|Puriy Puriy, Nicolas|
+|Grup 6|Royuela Martín, Oriol|
+|Grup 7|Gálvez Comajuan, Marc|
+|Grup 7|Martinez Segú, Eric|
+|Grup 7|Moreno Fernández, Nil|
+|Grup 7|Sohl Brenes, Martin Albert|
+|Grup 8|Bollero Ruzafa, Ivan|
+|Grup 8|Casas Lopez, Raul|
+|Grup 8|Garcia Fernández, Adrià|
+|Grup 8|Morales Gonzalez, Jan|
+
 
 Podeu comprovar quina és l'adreça IP que us toca i quin és el vostre grup al següent [enllaç](https://script.google.com/a/macros/ginebro.cat/s/AKfycbwyXcC3_d4qYKO2lxQMkS_GXYfajSFB1BP9CX98d9DAN9s3QCf-jfbAvzj5-1Se8_O9gA/exec)
 
