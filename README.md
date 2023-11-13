@@ -4,39 +4,39 @@
 
 ## Assignació dels grups
 
-|Grup|Alumne/a|
-|---|---|
-|Grup 1|Agustí Corbella, Oriol|
-|Grup 1|Lamela Garcia, Alvaro Haoan|
-|Grup 1|Román Robles, Àlex|
-|Grup 1|Soler Sampere, Arnau|
-|Grup 2|Boada Cirera, Jan|
-|Grup 2|Cot Fontanella, Marc|
-|Grup 2|Putellas Martín, Pol|
-|Grup 2|Vázquez Pelàez, Alex|
-|Grup 3|Navarro Galan, Gerard|
-|Grup 3|Rueda Guàrdia, Marc|
-|Grup 3|Sellés Puyol, Aniol|
-|Grup 4|Capel Vallbona, Marc|
-|Grup 4|Codina Garcia, Aleix|
-|Grup 4|Deus Jurado, Izan|
-|Grup 4|Ortiz Guerrero, Antoni|
-|Grup 5|Pan , Jiahao|
-|Grup 5|Pan , Le|
-|Grup 5|Sacristan Castillo, Marc|
-|Grup 5|Sardaña Trinh, Marc|
-|Grup 6|Córdoba Xandri, Oriol|
-|Grup 6|Garcia Romero, Arnau|
-|Grup 6|Puriy Puriy, Nicolas|
-|Grup 6|Royuela Martín, Oriol|
-|Grup 7|Gálvez Comajuan, Marc|
-|Grup 7|Martinez Segú, Eric|
-|Grup 7|Moreno Fernández, Nil|
-|Grup 7|Sohl Brenes, Martin Albert|
-|Grup 8|Bollero Ruzafa, Ivan|
-|Grup 8|Casas Lopez, Raul|
-|Grup 8|Garcia Fernández, Adrià|
-|Grup 8|Morales Gonzalez, Jan|
+|Grup|Alumne/a|IP Switch|
+|---|---|---|
+|Grup 1|Agustí Corbella, Oriol|192.168.100.10|
+|Grup 1|Lamela Garcia, Alvaro Haoan|192.168.100.15|
+|Grup 1|Román Robles, Àlex|192.168.100.20|
+|Grup 1|Soler Sampere, Arnau|192.168.100.25|
+|Grup 2|Boada Cirera, Jan|192.168.100.30|
+|Grup 2|Cot Fontanella, Marc|192.168.100.35|
+|Grup 2|Putellas Martín, Pol|192.168.100.40|
+|Grup 2|Vázquez Pelàez, Alex|192.168.100.45|
+|Grup 3|Navarro Galan, Gerard|192.168.100.50|
+|Grup 3|Rueda Guàrdia, Marc|192.168.100.55|
+|Grup 3|Sellés Puyol, Aniol|192.168.100.60|
+|Grup 4|Capel Vallbona, Marc|192.168.100.65|
+|Grup 4|Codina Garcia, Aleix|192.168.100.70|
+|Grup 4|Deus Jurado, Izan|192.168.100.75|
+|Grup 4|Ortiz Guerrero, Antoni|192.168.100.80|
+|Grup 5|Pan , Jiahao|192.168.100.85|
+|Grup 5|Pan , Le|192.168.100.90|
+|Grup 5|Sacristan Castillo, Marc|192.168.100.95|
+|Grup 5|Sardaña Trinh, Marc|192.168.100.100|
+|Grup 6|Córdoba Xandri, Oriol|192.168.100.105|
+|Grup 6|Garcia Romero, Arnau|192.168.100.110|
+|Grup 6|Puriy Puriy, Nicolas|192.168.100.115|
+|Grup 6|Royuela Martín, Oriol|192.168.100.120|
+|Grup 7|Gálvez Comajuan, Marc|192.168.100.125|
+|Grup 7|Martinez Segú, Eric|192.168.100.130|
+|Grup 7|Moreno Fernández, Nil|192.168.100.135|
+|Grup 7|Sohl Brenes, Martin Albert|192.168.100.140|
+|Grup 8|Bollero Ruzafa, Ivan|192.168.100.145|
+|Grup 8|Casas Lopez, Raul|192.168.100.150|
+|Grup 8|Garcia Fernández, Adrià|192.168.100.155|
+|Grup 8|Morales Gonzalez, Jan|192.168.100.160|
 
 
 Podeu comprovar quina és l'adreça IP que us toca i quin és el vostre grup al següent [enllaç](https://script.google.com/a/macros/ginebro.cat/s/AKfycbwyXcC3_d4qYKO2lxQMkS_GXYfajSFB1BP9CX98d9DAN9s3QCf-jfbAvzj5-1Se8_O9gA/exec)
