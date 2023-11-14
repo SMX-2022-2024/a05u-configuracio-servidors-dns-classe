@@ -132,7 +132,6 @@ A continuació us passo un llistat de algunes de les tasques que cal fer:
 
 El lliurament de l'activitat serà un document en **format ```pdf```**, amb el nom:
 
-
 > ## **```<cognomAlumne1>-<cognomAlumne2>-<cognomAlumne3>-<cognomAlumne4>-a05u.pdf```**
 >
 > on:
@@ -145,6 +144,7 @@ El lliurament de l'activitat serà un document en **format ```pdf```**, amb el n
 >
 > **```<cognomAlumne4>```** serà el cognom del quart dels alumnes ordenats alfabèticament (si n'hi ha).
 
+
 ### En aquest document caldrà quedin reflectits *TOTS* els passos que heu seguit per assolir el que es demana a l'activitat.
 
 És a dir, cal que, de cada pas, hi hagi, com a mínim el següent:
@@ -154,5 +154,9 @@ El lliurament de l'activitat serà un document en **format ```pdf```**, amb el n
 **2.** L'**EXPLICACIÓ DETALLADA** de com heu fet aquest pas, i
   
 **3.** Una **captura de pantalla**, si considereu que s'escau.
+
+**4.** Diagrama de xarxa del grup.
+
+ * Podeu fer servir el següent diagrama [a05u-diagrama-de-xarxa.png](https://drive.google.com/file/d/1COY1RVIDLgQC4a5aBlqL5KFs9Tt6EnfW/view?usp=sharing) que us he compartit perquè no comenceu des de zero.
 
 > ## L'**objectiu** del document és que seguint les vostres explicacions sigui possible assolir l'objectiu de l'activitat sense cap problema.
