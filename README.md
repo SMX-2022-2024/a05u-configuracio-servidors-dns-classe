@@ -149,10 +149,10 @@ El lliurament de l'activitat serà un document en **format ```pdf```**, amb el n
 
 És a dir, cal que, de cada pas, hi hagi, com a mínim el següent:
 
-**1.** un **titol** del pas en qüestió,
+**1.** El **TÍTOL** del pas en qüestió,
 
-**2.** una **explicació detallada** de com heu fet aquest pas, i
+**2.** L'**EXPLICACIÓ DETALLADA** de com heu fet aquest pas, i
   
-**3.** si considereu que s'escau, una **captura de pantalla**.
+**3.** Una **captura de pantalla**, si considereu que s'escau.
 
 > ## L'**objectiu** del document és que seguint les vostres explicacions sigui possible assolir l'objectiu de l'activitat sense cap problema.
