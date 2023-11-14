@@ -157,6 +157,21 @@ El lliurament de l'activitat serà un document en **format ```pdf```**, amb el n
 
 **4.** Diagrama de xarxa del grup.
 
- * Podeu fer servir el següent diagrama [a05u-diagrama-de-xarxa.png](https://drive.google.com/file/d/1COY1RVIDLgQC4a5aBlqL5KFs9Tt6EnfW/view?usp=sharing) que us he compartit perquè no comenceu des de zero.
+ * Podeu fer servir el següent diagrama [a05u-diagrama-de-xarxa](https://drive.google.com/file/d/1COY1RVIDLgQC4a5aBlqL5KFs9Tt6EnfW/view?usp=sharing) que us he compartit perquè no comenceu des de zero.
+
+
+Per fer servir aquest document cal:
+
+**1.** que l'obriu amb **```diagrams.net```** => **```Open with diagrams.net```**.
+
+![Alt text](./images/a05u-06-url-diagrama.png)
+
+**2.** Feu una copia
+
+![Alt text](./images/a05u-07-url-diagrama-copia.png)
+
+**3.**I guardar la còpia al vostre **```drive```**.
+
+![Alt text](./images/a05u-08-save-drive.png)
 
 > ## L'**objectiu** del document és que seguint les vostres explicacions sigui possible assolir l'objectiu de l'activitat sense cap problema.
