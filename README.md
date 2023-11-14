@@ -4,7 +4,6 @@
 
 ## Assignació dels grups
 
-
 ### Grup 1
 
 |Alumne/a|IP Switch|
@@ -76,85 +75,40 @@
 |Garcia Fernández, Adrià|192.168.100.155 /24|
 |Morales Gonzalez, Jan|192.168.100.160 /24|
 
-
 Podeu comprovar quina és l'**adreça IP** que us toca configurar al vostre **servidor DNS**, i quin és el vostre grup al següent [enllaç](https://script.google.com/a/macros/ginebro.cat/s/AKfycbwyXcC3_d4qYKO2lxQMkS_GXYfajSFB1BP9CX98d9DAN9s3QCf-jfbAvzj5-1Se8_O9gA/exec)
 
-## Creació del repositori del grup
+## Creació del nom del grup
 
-### **Pas 1** Nom del **repositori remot** del grup
+### **Pas 1** Nom del grup pel document **```pdf```**
 
-El **nom** del **repositori del grup** contindrà els **cognoms**, (**i només els cognoms, no hi haurà cap nom**), de cadascun dels membres del grup, **ordenats alfabeticament** i en minúscules, separats per guions i desprès de l'últim dels cognoms, un guió i el text **```-a05u```**.
+El **nom** del **grup** contindrà els **cognoms**, (**i només els cognoms, no hi haurà cap nom**), de cadascun dels membres del grup, **ordenats alfabeticament** i en minúscules, separats per guions i desprès de l'últim dels cognoms, un guió, el text **```-a05u```** i el fitxer caldrà que tingui extensió **```pdf```**.
 
-> ### Per exemple si els membres del grup son:
-> 
+> ## **```<cognomAlumne1>-<cognomAlumne2>-<cognomAlumne3>-<cognomAlumne4>-a05u.pdf```**
+>
+> on:
+>
+> **```<cognomAlumne1>```** serà el cognom del primer dels alumnes ordenats alfabèticament,
+>
+> **```<cognomAlumne2>```** serà el cognom del segon dels alumnes ordenats alfabèticament,
+>
+> **```<cognomAlumne3>```** serà el cognom del tercer dels alumnes ordenats alfabèticament,
+>
+> **```<cognomAlumne4>```** serà el cognom del quart dels alumnes ordenats alfabèticament (si n'hi ha).
+
+### Per exemple si els membres del grup son:
+ 
 > 1. **Iván Nieto** 
 > 1. **Vladi Bellavista** 
 > 1. **Rubén Martinez** 
 > 1. **Joan Pardo** 
 > 
-> El nom del **repositori del grup** seria:
+> El nom del **grup** seria:
 > 
-> **```bellavista-martinez-nieto-pardo-a05u```**
-
-### **Pas 2** Creació de la carpeta pel **repositori local**
-
-Cal que **TOTS** els membres del grup crein al seu portatil un **repositori local** a la ruta **```c:\smx2\repos\<cognom1>-<cognom2>-<cognom3>-<cognom4>-a05u```**.
-
-> on:
-> **```<cognom1>```** serà el cognom del primer dels alumnes ordenats alfabèticament,
-> **```<cognom2>```** serà el cognom del segon dels alumnes ordenats alfabèticament,
-> **```<cognom3>```** serà el cognom del tercer dels alumnes ordenats alfabèticament,
-> **```<cognom4>```** serà el cognom del quart dels alumnes ordenats alfabèticament (si n'hi ha).
-
-Seguint l'exemple anterior el **repositori local** seria **```c:\smx2\repos\bellavista-martinez-nieto-pardo-a05u```**.
-
-### **Pas 3** Creació del **repositori remot** del grup
-
-**Un dels membres del grup** crearà el **repositori remot** del grup al seu compte de [**github.com**](https://github.com):
-
-* Amb el nom **```<cognom1>-<cognom2>-<cognom3>-<cognom4>-a05u```**
-* De **tipus** **```privat```**,
-* Sense el fitxer **```README.md```**.
-
-A continuació, i seguint els passos de sembre, vincularà el **repositori remot** del grup amb el seu **repositori local**.
-
-### **Pas 4** Convidar als col·laboradors del **repositori remot**
-
-Un que ja tingui el seu **repositori local** vinculat amb el **repositori remot** del grup:
-
-* convidarà a la resta dels membres i
-* convidarà a l'usuari **```joanpardogine```**.
-
-### **Pas 5** Clonació dels col·laboradors del **repositori remot**
-
-**La resta dels membres del grup** clonarà el **repositori remot** del grup amb el **repositori local** del seu portàtil.
-
-Per fer-ho caldrà copiar la URL del **repositori remot** del grup
-
-![a05u-get-url-per-clonar.png](./images/a05u-get-url-per-clonar.png)
-
-I a continuació, des de la finestra de terminal de Visual Studio Code,
-
-![a05u-03-obrir-terminal-vsc.png](./images/a05u-03-obrir-terminal-vsc.png)
-
-Cal executar la comanda de git per **clonar** un repositori.
-
-> # ÉS MOLT IMPORTANT QUE AL FINAL DE LA COMANDA HI HAGI, DESPRÉS DE LA URL, UN ESPAI I UN PUNT.
-
-```
-git clone <URL> .
-```
-
-Un cop ja teniu clonat en el **repositori local** del vostre portàtil, el **repositori remot** del grup.
-
-
-Ara ja podeu començar a fer l'activitat!
-
+> **```bellavista-martinez-nieto-pardo-a05u.pdf```**
 
 ## Objectiu
 
 L'objectiu d'aquesta activitat és aconseguir que **TOTS** els servidors de **TOTS** alumnes es vegin entre ells. 
-
 
 ## Diagrama de Xarxa de l'activitat
 
@@ -174,17 +128,29 @@ A continuació us passo un llistat de algunes de les tasques que cal fer:
 
 - Comprovar que **TOTS** els servidors de **TOTS** els companys es veuen entre sí.
 
-<!-- 
-Proposta de configuració del Servidor per Actuar com a **Servidor de DNS Recursiu**
+## Lliurament
 
-* A la consola DNS, seleccioneu el servidor i feu clic amb el botó dret. Trieu "Propietats".
-
-![Alt text](./images/a05u-04-dns-properties.png)
-
-* Aneu a la pestanya ***Forwarders*** (**Reenviadors**) i marqueu l'opció "Actuar com a servidor DNS".
+El lliurament de l'activitat serà un document en **format ```pdf```**, amb el nom:
 
 
-![Alt text](image.png)
+> ## **```<cognomAlumne1>-<cognomAlumne2>-<cognomAlumne3>-<cognomAlumne4>-a05u.pdf```**
+>
+> on:
+>
+> **```<cognomAlumne1>```** serà el cognom del primer dels alumnes ordenats alfabèticament,
+>
+> **```<cognomAlumne2>```** serà el cognom del segon dels alumnes ordenats alfabèticament,
+>
+> **```<cognomAlumne3>```** serà el cognom del tercer dels alumnes ordenats alfabèticament,
+>
+> **```<cognomAlumne4>```** serà el cognom del quart dels alumnes ordenats alfabèticament (si n'hi ha).
 
-* A la mateixa pestanya, afegeix les adreces IP dels servidors DNS externs (poden ser els de Google, per exemple: 8.8.8.8 i 8.8.4.4).
- -->
+En aquest document caldrà quedin reflectits tots els passos que heu seguit per assolir el que es demana a l'activitat. És a dir, cal que, de cada pas, hi hagi:
+
+   * **1** un **titol** del pas en qüestió,
+
+   * **2** una **explicació detallada** de com heu fet aquest pas, i
+  
+   * **3** si considereu que s'escau, una **captura de pantalla**.
+
+> ## L'**objectiu** del document és que seguint les vostres explicacions sigui possible assolir l'objectiu de l'activitat sense cap problema.
