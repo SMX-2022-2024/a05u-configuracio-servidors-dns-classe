@@ -145,12 +145,14 @@ El lliurament de l'activitat serà un document en **format ```pdf```**, amb el n
 >
 > **```<cognomAlumne4>```** serà el cognom del quart dels alumnes ordenats alfabèticament (si n'hi ha).
 
-En aquest document caldrà quedin reflectits tots els passos que heu seguit per assolir el que es demana a l'activitat. És a dir, cal que, de cada pas, hi hagi:
+### En aquest document caldrà quedin reflectits *TOTS* els passos que heu seguit per assolir el que es demana a l'activitat.
 
-   * **1** un **titol** del pas en qüestió,
+És a dir, cal que, de cada pas, hi hagi, com a mínim el següent:
 
-   * **2** una **explicació detallada** de com heu fet aquest pas, i
+**1.** un **titol** del pas en qüestió,
+
+**2.** una **explicació detallada** de com heu fet aquest pas, i
   
-   * **3** si considereu que s'escau, una **captura de pantalla**.
+**3.** si considereu que s'escau, una **captura de pantalla**.
 
 > ## L'**objectiu** del document és que seguint les vostres explicacions sigui possible assolir l'objectiu de l'activitat sense cap problema.
