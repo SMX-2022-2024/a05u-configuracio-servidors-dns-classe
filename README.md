@@ -1,4 +1,4 @@
-# Configuració de la xarxa classe per que tots els servidors es vegin entre ells
+# Configuració per que tots els servidors es vegin entre ells
 
 > ## MP07 UF01 A05U - Activitat 5
 
