@@ -1,9 +1,9 @@
 # Configuració per que els servidors es vegin entre ells
 
 <td class="icon">
-<div class="title"> **NOTA**💡</div>
+<div class="title">MP07 UF01 A05U - Activitat 5 💡</div>
 
-> ## MP07 UF01 A05U - Activitat 5
+<!-- > ## MP07 UF01 A05U - Activitat 5 -->
 
 </td>
 
