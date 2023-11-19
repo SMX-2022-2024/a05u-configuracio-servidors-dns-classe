@@ -1,5 +1,6 @@
-# Configuració per que tots els servidors es vegin entre ells
+# Configuració per que els servidors es vegin entre ells
 
+> [Info]
 > ## MP07 UF01 A05U - Activitat 5
 
 ## Assignació dels grups
@@ -112,7 +113,7 @@ L'objectiu d'aquesta activitat és aconseguir que **TOTS** els servidors de **TO
 
 ## Diagrama de Xarxa de l'activitat
 
-![a05u-diagrama-de-xarxa.png](./images/a05u-diagrama-de-xarxa.png)
+![a05u-diagrama-de-xarxa.png](./images/a05u-01-diagrama-de-xarxa.png)
 
 ## Repartició de les tasques
 
@@ -170,7 +171,7 @@ Per fer servir aquest document cal:
 
 ![Alt text](./images/a05u-07-url-diagrama-copia.png)
 
-**3.**I guardar la còpia al vostre **```drive```**.
+**3.** I guardar la còpia al vostre **```drive```**.
 
 ![Alt text](./images/a05u-08-save-drive.png)
 
