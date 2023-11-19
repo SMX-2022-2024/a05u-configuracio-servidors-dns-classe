@@ -4,8 +4,6 @@
 <div class="title"><h3> :information_source: MP07 UF01 <b>A05U - Activitat 5</b></h3></div>
 </td>
 
-
-
 ## Assignació dels grups
 
 ### Grup 1
