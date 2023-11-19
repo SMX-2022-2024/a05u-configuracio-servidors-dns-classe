@@ -1,7 +1,7 @@
 # Configuració per que els servidors es vegin entre ells
 
 <td class="icon">
-<div class="title">:information_source: MP07 UF01 A05U - Activitat 5</div>
+<div class="title">:information_source: <h3>MP07 UF01 <b>A05U - Activitat 5</b></h3></div>
 </td>
 
 
