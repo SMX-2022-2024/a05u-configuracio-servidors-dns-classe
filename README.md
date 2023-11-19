@@ -1,5 +1,9 @@
 # Configuració per que els servidors es vegin entre ells
 
+<td class="icon">
+<div class="title">💡</div>
+</td>
+
 > [!NOTE]
 > ## MP07 UF01 A05U - Activitat 5
 
