@@ -1,6 +1,6 @@
 # Configuració per que els servidors es vegin entre ells
 
-> [!INFO]
+> ![INFO]
 > ## MP07 UF01 A05U - Activitat 5
 
 ## Assignació dels grups
