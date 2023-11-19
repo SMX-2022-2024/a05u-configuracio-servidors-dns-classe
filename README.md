@@ -8,6 +8,15 @@
 </td>
 
 
+ifdef::env-github[]
+:tip-caption: :bulb:
+endif::[]
+
+[TIP]
+It's possible to use emojis as admonition icons on GitHub.
+
+
+
 ## Assignació dels grups
 
 ### Grup 1
