@@ -1,19 +1,8 @@
 # Configuració per que els servidors es vegin entre ells
 
 <td class="icon">
-<div class="title">MP07 UF01 A05U - Activitat 5 💡</div>
-
-<!-- > ## MP07 UF01 A05U - Activitat 5 -->
-
+<div class="title">:information_source: MP07 UF01 A05U - Activitat 5</div>
 </td>
-
-
-ifdef::env-github[]
-:tip-caption: :bulb:
-endif::[]
-
-[TIP]
-It's possible to use emojis as admonition icons on GitHub.
 
 
 
